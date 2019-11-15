@@ -1,0 +1,23 @@
+{
+  "name": "tripcost",
+  "version": "1.0.0",
+  "description": "Node API trip cost calculator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Confirm4Crit/tripcost.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Confirm4Crit/tripcost/issues"
+  },
+  "homepage": "https://github.com/Confirm4Crit/tripcost#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongodb": "^3.3.4"
+  }
+}
